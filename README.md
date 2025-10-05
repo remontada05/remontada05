@@ -1,3 +1,10 @@
+<div align="center">
+  <p align="center">
+  <img src="./header.png" alt="Banner Image" width="100%"/>
+</p>
+</div>
+
+
 #   I'm Amulya Prakash  
 **A passionate B.E ISE Student | Aspiring AI & Web Developer | Tech Enthusiast**  
 
